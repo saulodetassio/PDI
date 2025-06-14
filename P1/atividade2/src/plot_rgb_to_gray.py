@@ -6,7 +6,7 @@ from skimage.io import imread, imsave
 import os
 
 # Caminhos
-input_path = r'C:\PDI\P1\atividade2\data\input\paisagem.jpg'  # <- troque o nome conforme a imagem
+input_path = r'C:\PDI\P1\atividade2\data\input\maranhao.jpg'  # <- troque o nome conforme a imagem
 output_path = r'C:\PDI\P1\atividade2\data\output\resultado_rgb_for_gray.png'
 
 # Leitura da imagem
